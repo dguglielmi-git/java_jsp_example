@@ -1,0 +1,9 @@
+.header_dag {
+    background: linear-gradient(
+    to right,
+    rgba(50, 68, 112, 1) 2%,
+    rgba(43, 56, 89, 1) 15%,
+    rgba(57, 62, 73, 1) 75%
+  );
+    color:white;
+}
