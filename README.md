@@ -1,4 +1,4 @@
-# java_jsp_example
+# Java JSP Example Web Site
 Java Website Example of JSP
 
 This is just an example of JSP Website, Hibernate and how to get information from DataBase.
