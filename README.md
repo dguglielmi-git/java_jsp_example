@@ -9,7 +9,6 @@ This project includes some examples of:
 
 -Generics
 -Java Reflection
--Singleton Pattern
 -Servlets
 -Persistence config for Hibernate
 -MVC
